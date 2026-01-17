@@ -1,6 +1,6 @@
-<h1 align="center">heey👋，I'm connie</h1>
+<h1 align="center">heey👋，I'm connie💮💮💮</h1>
 <div align="center">
-
+<h1 align="center">💎Yùù vi💎</h1>
 <br />
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 <br />
